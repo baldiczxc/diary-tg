@@ -17,7 +17,6 @@
    ```bash
    pip install aiogram aiosqlite asyncio
    ```
-5. Создайте файл базы данных `diary.db` (будет создан автоматически при первом запуске).
 
 ## Запуск
 
